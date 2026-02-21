@@ -52,3 +52,7 @@ Wireshark filters were applied to identify:
 ## 📑 Report
 
 Detailed analysis is available in the PDF report included in this repository.
+## Full Report
+You can view the complete analysis report here:
+
+[SOC Network Traffic Analysis Report](SOC_Network_Traffic_Analysis_Report.pdf)
